@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("P_App-readme")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+ebb030219e2d2887717be50a8c193e54b93a144c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+56eb7eb4c3bbb9240b3341d2cf88f7a19a20b4c7")]
 [assembly: System.Reflection.AssemblyProductAttribute("P_App-readme")]
 [assembly: System.Reflection.AssemblyTitleAttribute("P_App-readme")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
