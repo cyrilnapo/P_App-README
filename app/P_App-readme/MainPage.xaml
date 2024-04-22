@@ -4,33 +4,28 @@
              x:Class="P_App_readme.MainPage"
              Title="Accueil">
 
-    <ScrollView>
-        <VerticalStackLayout
-            Padding="30,0"
-            Spacing="25">
-            
-
-            <Label
-                Text="README."
-                Style="{StaticResource Headline}"
-                FontSize="48"
-                SemanticProperties.HeadingLevel="Level1"
-                TextDecorations="Underline"/>
-
-            <Label
-                Text="Click on the book you want to read"
-                Style="{StaticResource SubHeadline}"
-                SemanticProperties.HeadingLevel="Level2"
-                SemanticProperties.Description="Welcome to dot net Multi platform App U I"
-                />
-
-            <Button
-                x:Name="CounterBtn"
-                Text="Click me" 
-                SemanticProperties.Hint="Counts the number of times you click"
-                Clicked="OnCounterClicked"
-                HorizontalOptions="Fill" />
-        </VerticalStackLayout>
-    </ScrollView>
-
+    <StackLayout>
+        <ListView
+            ItemsSource="{Binding Books}"
+            SelectionMode="Single">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <StackLayout Orientation="Horizontal">
+                            <Image Source="{Binding Image}"
+                                   Width="50"
+                                   Height="50" />
+                            <StackLayout>
+                                <Label Text="{Binding Title}"
+                                       FontSize="18"
+                                        />
+                                <Label Text="{Binding Author}"
+                                       FontSize="16" />
+                            </StackLayout>
+                        </StackLayout>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </StackLayout>
 </ContentPage>
