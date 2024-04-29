@@ -25,11 +25,6 @@ C:\Users\pt63blc\Documents\GitHub\P_App\app\P_App-readme\obj\Debug\net8.0-androi
 C:\Users\pt63blc\Documents\GitHub\P_App\app\P_App-readme\obj\Debug\net8.0-android\mauifont.stamp
 C:\Users\pt63blc\Documents\GitHub\P_App\app\P_App-readme\obj\Debug\net8.0-android\resizetizer\f\OpenSans-Regular.ttf
 C:\Users\pt63blc\Documents\GitHub\P_App\app\P_App-readme\obj\Debug\net8.0-android\resizetizer\f\OpenSans-Semibold.ttf
-C:\Users\pt63blc\Documents\GitHub\P_App\app\P_App-readme\obj\Debug\net8.0-android\resizetizer\r\drawable-hdpi\dotnet_bot.png
-C:\Users\pt63blc\Documents\GitHub\P_App\app\P_App-readme\obj\Debug\net8.0-android\resizetizer\r\drawable-mdpi\dotnet_bot.png
-C:\Users\pt63blc\Documents\GitHub\P_App\app\P_App-readme\obj\Debug\net8.0-android\resizetizer\r\drawable-xhdpi\dotnet_bot.png
-C:\Users\pt63blc\Documents\GitHub\P_App\app\P_App-readme\obj\Debug\net8.0-android\resizetizer\r\drawable-xxhdpi\dotnet_bot.png
-C:\Users\pt63blc\Documents\GitHub\P_App\app\P_App-readme\obj\Debug\net8.0-android\resizetizer\r\drawable-xxxhdpi\dotnet_bot.png
 C:\Users\pt63blc\Documents\GitHub\P_App\app\P_App-readme\obj\Debug\net8.0-android\resizetizer\r\mipmap-anydpi-v26\appicon.xml
 C:\Users\pt63blc\Documents\GitHub\P_App\app\P_App-readme\obj\Debug\net8.0-android\resizetizer\r\mipmap-anydpi-v26\appicon_round.xml
 C:\Users\pt63blc\Documents\GitHub\P_App\app\P_App-readme\obj\Debug\net8.0-android\resizetizer\r\mipmap-hdpi\appicon.png
@@ -1037,3 +1032,4 @@ C:\Users\pt63blc\Documents\GitHub\P_App\app\P_App-readme\obj\Debug\net8.0-androi
 C:\Users\pt63blc\Documents\GitHub\P_App\app\P_App-readme\obj\Debug\net8.0-android\stamp\_GenerateJavaStubs.stamp
 C:\Users\pt63blc\Documents\GitHub\P_App\app\P_App-readme\obj\Debug\net8.0-android\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\pt63blc\Documents\GitHub\P_App\app\P_App-readme\obj\Debug\net8.0-android\stamp\_ResolveLibraryProjectImports.stamp
+C:\Users\pt63blc\Documents\GitHub\P_App\app\P_App-readme\obj\Debug\net8.0-android\resizetizer\r\drawable\hpbook.jpg

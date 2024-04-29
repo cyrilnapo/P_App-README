@@ -5,6 +5,8 @@
              Title="Accueil">
 
     <StackLayout>
+        <Label Text="Readme." VerticalOptions="Center" HorizontalOptions="Center" FontAttributes="Bold" FontSize="50" TextDecorations="Underline" Margin="20"/>
+
         <ListView
             ItemsSource="{Binding Books}"
             SelectionMode="Single">

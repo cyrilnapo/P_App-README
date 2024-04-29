@@ -16,11 +16,13 @@ namespace P_App_readme
         {
             InitializeComponent();
 
-            books.Add(new Book { Image = "Images/HPbook.jpg", Title = "Harry Potter à l'école des sorciers", Author = "J.K. Rowling" });
-            books.Add(new Book { Image = "Images/HPbook.jpg", Title = "Harry Potter et la Chambre des Secrets", Author = "J.K. Rowling" });
-            books.Add(new Book { Image = "Images/HPbook.jpg", Title = "Harry Potter et le Prisonnier d'Azkaban", Author = "J.K. Rowling" });
+            books.Add(new Book { Image = "hpbook.jpg", Title = "Harry Potter à l'école des sorciers", Author = "J.K. Rowling" });
+            books.Add(new Book { Image = "hpbook.jpg", Title = "Harry Potter et la Chambre des Secrets", Author = "J.K. Rowling" });
+            books.Add(new Book { Image = "hpbook.jpg", Title = "Harry Potter et le Prisonnier d'Azkaban", Author = "J.K. Rowling" });
 
             Books = books;
+
+            BindingContext = this;
         }
 
         public ObservableCollection<Book> Books { get; set; }
