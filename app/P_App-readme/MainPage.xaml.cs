@@ -26,8 +26,5 @@ namespace P_App_readme
         }
 
         public ObservableCollection<Book> Books { get; set; }
-
-        
-
     }
 }
