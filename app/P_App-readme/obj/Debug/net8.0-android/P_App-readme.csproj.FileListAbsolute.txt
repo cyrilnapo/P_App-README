@@ -1033,3 +1033,6 @@ C:\Users\pt63blc\Documents\GitHub\P_App\app\P_App-readme\obj\Debug\net8.0-androi
 C:\Users\pt63blc\Documents\GitHub\P_App\app\P_App-readme\obj\Debug\net8.0-android\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\pt63blc\Documents\GitHub\P_App\app\P_App-readme\obj\Debug\net8.0-android\stamp\_ResolveLibraryProjectImports.stamp
 C:\Users\pt63blc\Documents\GitHub\P_App\app\P_App-readme\obj\Debug\net8.0-android\resizetizer\r\drawable\hpbook.jpg
+C:\Users\pt63blc\Documents\GitHub\P_App\app\P_App-readme\obj\Debug\net8.0-android\android\assets\HtmlAgilityPack.dll
+C:\Users\pt63blc\Documents\GitHub\P_App\app\P_App-readme\obj\Debug\net8.0-android\android\assets\HtmlAgilityPack.pdb
+C:\Users\pt63blc\Documents\GitHub\P_App\app\P_App-readme\obj\Debug\net8.0-android\android\assets\VersOne.Epub.dll

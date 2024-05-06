@@ -1,4 +1,7 @@
 ﻿using System.Collections.ObjectModel;
+using VersOne.Epub;
+using HtmlAgilityPack;
+
 
 namespace P_App_readme
 {
@@ -12,11 +15,16 @@ namespace P_App_readme
     {
         private ObservableCollection<Book> books = new ObservableCollection<Book>();
 
+
+
         public MainPage()
         {
             InitializeComponent();
 
-            books.Add(new Book { Image = "hpbook.jpg", Title = "Harry Potter à l'école des sorciers", Author = "J.K. Rowling" });
+            EpubBook book = EpubReader.ReadBook("DickensCharles-AChristmasCarol.epub");
+
+
+            books.Add(new Book { Image = "hpbook.jpg", Title = $"{book.Title}", Author = "J.K. Rowling" });
             books.Add(new Book { Image = "hpbook.jpg", Title = "Harry Potter et la Chambre des Secrets", Author = "J.K. Rowling" });
             books.Add(new Book { Image = "hpbook.jpg", Title = "Harry Potter et le Prisonnier d'Azkaban", Author = "J.K. Rowling" });
 
